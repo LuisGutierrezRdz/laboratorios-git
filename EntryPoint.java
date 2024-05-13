@@ -3,6 +3,8 @@ public class EntryPoint{
 		for (int j ; j < 1000; j++) {
 			System.out.println("Calculando la masa del sol....");
 		}
-		System.out.println("Hola");
+		for (int a; a< 10 ; a++) {
+			System.out.println("Hola");		
+		}
 	}
 }
